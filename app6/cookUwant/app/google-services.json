@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "963575533722",
+    "firebase_url": "https://recipes-9e9af-default-rtdb.firebaseio.com",
+    "project_id": "recipes-9e9af",
+    "storage_bucket": "recipes-9e9af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963575533722:android:9149fd9953f6969c26cf23",
+        "android_client_info": {
+          "package_name": "com.example.cookuwant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkkLGfh5LJ1eej3jZb6gC5PYmtfE-q2ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

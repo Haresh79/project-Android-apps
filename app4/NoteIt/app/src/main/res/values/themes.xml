@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NoteIt" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+<!--         <item name="colorPrimary">@color/white</item>-->
+        <item name="android:statusBarColor">@color/ui3</item>
+        <item name="android:navigationBarColor">@color/ui3</item>
+    </style>
+
+    <style name="Theme.NoteIt" parent="Base.Theme.NoteIt" />
+</resources>
